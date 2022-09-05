@@ -4,7 +4,7 @@
   <name>my_package2</name>
   <version>0.0.0</version>
   <description>Beginner client libraries tutorials practice package</description>
-  <maintainer email="brasacca@dukes.jmu.edu">katie</maintainer>
+  <maintainer email="brasacca@dukes.jmu.edu">Katie Brasacchio</maintainer>
   <license>Apache License 2.0</license>
 
   <test_depend>ament_copyright</test_depend>
